@@ -14,4 +14,4 @@ tell application "Google Chrome"
 	open location "https://www.google.com/calendar/render#g"
 end tell
 
-tell application "Google Chrome" to activate
+tell application "Google Chrome" to activate 
